@@ -1,5 +1,5 @@
 {
-  "name": "Resturant_website",
+  "name": "resturant_website",
   "version": "1.0.0",
   "description": "A basic build of a restaurant website using Node.JS, Express, EJS and mongoDB",
   "main": "index.js",
